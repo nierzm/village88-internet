@@ -1,0 +1,203 @@
+.container {
+    height: 900px;
+    width: 960px;
+    margin: 10px auto;
+    padding: 0px;
+    font-family: sans-serif;
+}
+header {
+    height: auto;
+    width: 930px;
+    vertical-align: top;
+    display: inline-block;
+    margin-bottom: -40px;
+}
+    header img {
+        width: 90px;
+    }
+    header span {
+        color: #24669f;
+    }
+    header h1 {
+        margin: -80px 0px 0px 95px;
+        font-size: 47px;
+    }
+    header h2{
+        color: white;
+        font-size: 32px;
+        background-image: linear-gradient(#28689f, #5384ac, #28689f);
+        padding: 10px;
+        margin-top: 3px;
+        display: block;
+        font-weight: normal;
+        width: 940px;
+    }
+main {
+    background-image: linear-gradient(#fbfbfb, #ffffff);
+    display: inline-block;
+    margin-top: 13px;
+}
+.intro {
+    font-weight: bold;
+    font-size: 14px;
+    display: inline-block;
+    margin: 20px 0px 0px 5px;
+    height: 755px;
+    width: 200px;
+    vertical-align: top;
+}
+    .intro span {
+        color: #b44041;
+    }
+    .intro p span {
+        color: #34628c;
+    }
+    .intro ul {
+        height: 30px;
+        width: 150px;
+    }
+    .intro ul li {
+        list-style-type: none;
+        margin: 0px 0px 5px -40px;
+        text-align: center;
+        margin-top: 10px;
+        padding-top: 7px;
+    }
+    .intro a {
+        text-decoration: none;
+        color: white;
+        font-size: 16px;
+        border-radius: 7px;
+        box-shadow: 2px 2px gray;
+    }
+    #link-vid {
+        padding: 7px 30px;
+        background-image: linear-gradient(#6599c2, #28689d);
+    }
+    #link-res {
+        padding: 7px 17px;
+        background-image: linear-gradient(#eaab5f, #ee7606);
+    }
+    .advertisement img {
+        margin-top: 40px;
+        margin-left: -5px;
+        height: 330px;
+        width: 205px;
+        display: block;
+    }
+    .border {
+        border-top: 2px solid #9a9a9a;
+        margin-top: 70px;
+        margin-left: -5px;
+    }
+    .advertisement p {
+        display: block;
+        color: white;
+        margin-top: -300px;
+        text-align: center;
+        font-size: 25px;
+        font-weight: normal;
+    }
+    #ninja {
+        display: block;
+        margin-top: 10px;
+        margin-left: 55px;
+        margin-bottom: 25px;
+        width: 80px;
+        height: 105px;
+    }
+    .advertisement a {
+        color: white;
+        background: linear-gradient(#7dd1e1, #08c2de);
+        box-shadow: none;
+        padding: 7px;
+        margin-left: 30px;
+    }
+nav {
+    display: inline-block;
+    margin-top: 10px;
+    vertical-align: top;
+    /* width: 900px; */
+}
+    nav img {
+        margin-top: 10px;
+        vertical-align: top;
+        width: 20px;
+        margin-left: 40px;
+        display: inline-block;
+    }
+    nav p {
+        margin: -17px 0px 0px 65px;
+        color: #2f6290;
+    }
+    .contact img {
+        width: 40px;
+        display: inline-block;
+        margin-left: 530px;
+        margin-top: -30px;
+    }
+    .contact p {
+        margin: -57px 0px 20px 580px;
+        font-size: 11px;
+        padding-right: 20px;
+        padding-bottom: 37px;
+        color: black;
+    }
+    .contact span {
+        font-size: 20px;
+        color: #03c0da;
+        font-weight: bold;
+    }
+section {
+    display: inline-block;
+    margin-top: -710px;
+    vertical-align: top;
+    margin-left: 250px;
+    border-top: 1px solid #9a9a9a;
+}
+    section span {
+        font-weight: bold;
+        color: #5bc0ce;
+    }
+    .bold {
+        color: black;
+    }
+    section h3 {
+        color: #31638b;
+    }
+    section img {
+        margin: 20px 0px 10px 200px;
+        width: 250px;
+    }
+    ol {
+        margin-bottom: 30px;
+    }
+    #italic {
+        font-style: italic;
+        font-weight: normal;
+        color: black;
+    }
+    .box {
+        border-color: #2785e0;
+        border-style: solid;
+        border-width: 5px 5px 0px 5px;
+        vertical-align: top;
+        width: 700px;
+        display: inline-block;
+        margin: -15px 0px 20px 5px;
+        
+    }
+    .box img {
+        display: inline-block;
+        width: 110px;
+        margin-left: 10px;
+    }
+    .box h3 {
+        margin: -110px 0px 0px 140px;
+        padding-right: 750px;
+        padding-top: -1200px;
+        width: 350px;
+    }
+    .box p {
+        margin: 5px 0px 0px 140px;
+    }
